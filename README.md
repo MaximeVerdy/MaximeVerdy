@@ -7,4 +7,4 @@ Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaximeVerdy&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaximeVerdy&theme=nord_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaximeVerdy&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaximeVerdy&theme=nord_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaximeVerdy&theme=nord_dark)
