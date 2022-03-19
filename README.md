@@ -13,7 +13,3 @@ Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
 
 ![](https://www.codewars.com/users/Maxime%20Verdy/badges/large)
 
-![](https://www.codewars.com/users/Maxime%20Verdy/badges/small)
-
-![](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)
-
