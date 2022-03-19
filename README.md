@@ -4,6 +4,8 @@
 
 🥋 4 kyu en katas JS [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) ou comment buller utilement 🤫
 
+[![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) en katas JS ou comment buller utilement 🤫
+
 - Mes technos : MongoDB / Node.js / Express / HTML 5 / CSS / JS / React / React Native / Redux
 - Notions / En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
