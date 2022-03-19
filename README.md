@@ -2,7 +2,7 @@
 
 🎓 Diplôme RNCP niveau 6 (BAC+3/4) obtenu à [La Capsule](https://www.lacapsule.academy) 🚀
 
-🥋 4 kyu Codewars [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) ou comment buller utilement 🤫
+🥋 4 kyu en katas JS [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) ou comment buller utilement 🤫
 
 - Mes technos : MongoDB / Node.js / Express / HTML 5 / CSS / JS / React / React Native / Redux
 - Notions / En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript
