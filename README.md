@@ -1,9 +1,9 @@
  # ✨ Développeur JS back, front et mobile 
 
-🎓 Diplôme RNCP niveau 6 (BAC+3/4) obtenu à [La Capsule 🚀](https://www.lacapsule.academy)
-
+🎓 Diplôme RNCP niveau 6 (BAC+3/4) obtenu à [La Capsule 🚀](https://www.lacapsule.academy)  
 [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) en katas JS ou comment buller utilement 🤫
-
+  
+    
 - Mes technos : MongoDB / Node.js / Express / HTML 5 / CSS / JS / React / React Native / Redux
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
