@@ -1,4 +1,5 @@
  # ✨ Développeur FullStack JS ✨  
+ # ✨ Développeur JS back, front et mobile ✨  
 Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
 
 🎓👨‍🎓📜 diplomé RNCP niv 6 
