@@ -13,5 +13,8 @@ Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
 
 ### [katas JS : ](https://www.codewars.com/users/Maxime%20Verdy) ![](https://www.codewars.com/users/Maxime%20Verdy/badges/small)
 
-![](https://www.codewars.com/users/Maxime%20Verdy/badges/small)(https://www.codewars.com/users/Maxime%20Verdy)
+[![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/small)(https://www.codewars.com/users/Maxime%20Verdy)]
+
+
+[![Légende](url vers l'image)](url vers une page)]
 
