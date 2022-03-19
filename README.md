@@ -11,7 +11,5 @@ Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaximeVerdy&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaximeVerdy&theme=nord_bright)
 
-[niveau en kata JS](https://www.codewars.com/users/Maxime%20Verdy) 
-
-![](https://www.codewars.com/users/Maxime%20Verdy/badges/small)
+##### [niveau en katas JS](https://www.codewars.com/users/Maxime%20Verdy) ![](https://www.codewars.com/users/Maxime%20Verdy/badges/small)
 
