@@ -4,7 +4,7 @@
 
 🎓 Diplôme RNCP niveau 6 (BAC+3/4) obtenu à [La Capsule 🚀](https://www.lacapsule.academy)  
 
-[![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) en katas JS... meilleure façon de buller en se donnant bonne conscience 🤗
+[![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) en katas JS... la meilleure façon de buller en se donnant bonne conscience 🤗
 
  <br/>
     
