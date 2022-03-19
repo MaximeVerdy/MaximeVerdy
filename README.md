@@ -1,8 +1,6 @@
- # ✨ Développeur FullStack JS ✨  
- # ✨ Développeur JS back, front et mobile ✨  
-Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
+ # ✨ Développeur JS back, front et mobile 
 
-🎓👨‍🎓📜 diplomé RNCP niv 6 
+🎓 Diplôme RNCP niv 6 (BAC+3/4) obtenu à [La Capsule](https://www.lacapsule.academy) 🚀
 
 🥋 4 kyu Codewars ^^
 
