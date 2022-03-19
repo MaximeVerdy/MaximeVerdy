@@ -1,6 +1,8 @@
  # ✨ Développeur FullStack JS ✨  
 Diplômé RNCP niv 6 (BAC+3/4) en dev web & mobile
-🎓�👨‍🎓�📜 diplomé RNCP niv 6 
+
+🎓👨‍🎓📜 diplomé RNCP niv 6 
+
 🥋 4 kyu Codewars ^^
 
 - Mes technos : MongoDB / Node.js / Express / HTML 5 / CSS / JS / React / React Native / Redux
