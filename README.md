@@ -1,5 +1,5 @@
  # ✨ Développeur JS <br/> back, front et mobile  
- 
+ basé à Paris
  <br/>
 
 🎓 Diplôme RNCP niveau 6 (BAC+3/4) obtenu à [La Capsule 🚀](https://www.lacapsule.academy)  
