@@ -1,7 +1,7 @@
  # ✨ Développeur JS <br/> back, front et mobile  
 </br>
 
-🎓 Diplôme RNCP niveau 6 (BAC+3/4) obtenu à [La Capsule 🚀](https://www.lacapsule.academy)  
+🎓 Diplôme RNCP niv 6 obtenu à [La Capsule 🚀](https://www.lacapsule.academy)  
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)
 
  <br/>
