@@ -6,7 +6,7 @@
 
  <br/>
     
-- Mes technos : MongoDB / Node.js / Express / HTML 5 / CSS / JS / React / React Native / Redux
+- Mes technos : JS / React / React Native / Redux / MongoDB / Node.js / Express / HTML / CSS
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
