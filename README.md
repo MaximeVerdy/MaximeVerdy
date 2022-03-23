@@ -18,4 +18,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaximeVerdy&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaximeVerdy&theme=nord_bright)
 
 
-Citation préférée : *Faut pas pusher mémé dans les orties* / *If it isn't on Google, code it yourself.*
+Citation préférée : *Faut pas pusher mémé dans les orties*
