@@ -6,7 +6,8 @@
 
 [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy) en katas JS... la meilleure façon de buller en se donnant bonne conscience 🤗 // c'est travailler ou buller ? 🤔 // C'est professionel ou c'est récréatif ? 🤔 Damn it la gamification de l'apprentissage ^^ 
 
-// ceinture bleue en kata JS // 🥋 4ème Kyu en kata JS
+// ceinture bleue en kata JS 
+// 🥋 4ème Kyu en kata JS (faut croire que j'aime la bagare)
 
 // Parfois, je bulle avec bonne conscience sur codewars [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)
 
