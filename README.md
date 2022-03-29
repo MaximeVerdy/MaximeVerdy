@@ -6,7 +6,7 @@
 
  <br/>
     
-- Mes technos : JS / React / React Native / Redux / MongoDB / Node.js / Express / HTML / CSS
+- Mes technos :
 ![mes technos](mesTechnos.png)
 
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
