@@ -7,6 +7,8 @@
  <br/>
     
 - Mes technos : JS / React / React Native / Redux / MongoDB / Node.js / Express / HTML / CSS
+[codewars](mesTechnos.png)
+
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
