@@ -6,6 +6,7 @@
  <br/>
 - Mes technos :  <br/>
 <img src="mestechnos3.png" width="600">
+![screenshot](screenshot1.jpg)
 ![mes technos](mestechnos2.png)
 
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
