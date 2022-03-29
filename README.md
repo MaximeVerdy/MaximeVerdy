@@ -6,7 +6,7 @@
  <br/>
 - Mes technos :  <br/>
 <img src="mestechnos3.png" width="600">
-![](mestechnos2.png)
+![mes technos](mestechnos2.png)
 
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
