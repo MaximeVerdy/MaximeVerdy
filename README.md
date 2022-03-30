@@ -2,7 +2,7 @@
 
 #### Ma stack :  
 
-<img src="GitTechnosBootstrap.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
+<img src="GitTechnosBootstrap.png" width="535" alt="HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
 </br>
 
 🎓 Diplôme RNCP niv 6 en développement web et mobile obtenu à [La Capsule 🚀](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)  
