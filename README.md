@@ -25,5 +25,5 @@
 <br/>
 <br/>
 <a href="https://www.linkedin.com/in/maximeverdy/">
-<img src="Linkedin-logo.png" width="110" alt="badge LinkedIn">
+<img src="Linkedin-logo.png" width="100" alt="badge LinkedIn">
 </a>
