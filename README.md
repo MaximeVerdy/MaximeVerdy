@@ -1,6 +1,6 @@
  # ✨ Développeur JS <br/> back, front et mobile  
 
-Ma stack :  
+######Ma stack :  
 </br>
 <img src="GitTechnosBoot.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
 </br>
