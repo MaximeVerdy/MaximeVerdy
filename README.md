@@ -18,4 +18,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaximeVerdy&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaximeVerdy&theme=nord_bright)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximeverdy/)](https://www.linkedin.com/in/maximeverdy/)
+[![Linkedin Badge](Linkedin-logo.png)](https://www.linkedin.com/in/maximeverdy/)
+<a href="https://www.linkedin.com/in/maximeverdy/">
+<img src="Linkedin-logo.png" width="100" alt="badge LinkedIn">
+</a>
