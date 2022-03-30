@@ -1,8 +1,8 @@
  # ✨ Développeur JS <br/> back, front et mobile  
 </br>
 
-🎓 Diplôme RNCP niv 6 obtenu à [La Capsule 🚀](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/">
+🎓 Diplôme RNCP niv 6 obtenu à [La Capsule](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)
+ <a href="https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/">
 <img src="capsule-logo.jpg" width="20" alt="La Capsule">
 </a>  
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)
