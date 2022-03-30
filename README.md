@@ -5,7 +5,7 @@
 <img src="GitTechnosBootstrap.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
 </br>
 
-🎓 Diplôme RNCP de niveau 6 en développement web et mobile obtenu à [La Capsule 🚀](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)  
+🎓 Diplôme RNCP niv 6 en développement web et mobile obtenu à [La Capsule 🚀](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)  
 <br/>
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 <br/>
