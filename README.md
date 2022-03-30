@@ -5,7 +5,7 @@
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)
 <br/>
 - Ma stack :  
-<img src="mestechnos3.png">
+<img src="GitHub technos Bootstrap.png">
 
 - Toujours en recherche de progression, j’apprécie les retours
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
