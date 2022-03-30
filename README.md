@@ -7,6 +7,7 @@
 - Ma stack :  
 <img src="mestechnos3.png">
 
+- Toujours en recherche de progression, j’apprécie les retours
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
