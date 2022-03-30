@@ -11,14 +11,10 @@
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Bonjour!</h1>
-</h1>
 
 #### 📬 Contact :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximeverdy/)](https://www.linkedin.com/in/maximeverdy/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maximeverdy@gmail.com)](mailto:maximeverdy@gmail.com)
-
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaximeVerdy&theme=nord_bright)
 
