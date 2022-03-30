@@ -5,7 +5,11 @@
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)
 <br/>
 - Ma stack :  
-<img src="GitTechnosBoot.png" width="535">
+<img src="GitTechnosBoot.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5 CSS JS / React / Redux / Bootstrap
+Programmation Back-end : Node.js / Express
+Programmation mobile : React Native
+Base de données : MongoDB
+Workflow : Github">
 
 - Toujours en recherche de progression, j’apprécie les retours
 - En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
