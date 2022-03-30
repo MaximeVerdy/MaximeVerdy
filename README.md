@@ -12,7 +12,7 @@
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
 
-#### 📬 Contact :
+📬 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maximeverdy/)](https://www.linkedin.com/in/maximeverdy/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maximeverdy@gmail.com)](mailto:maximeverdy@gmail.com)
 
