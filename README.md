@@ -7,7 +7,7 @@
 🎓 Pourvu d'un diplôme RNCP de niveau 6 obtenu à [La Capsule 🚀](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)  
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 🔎 Toujours en recherche de progression et de "best practices", j’apprécie les retours  
-⛵ Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD  
+⚓ Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD  
 😮 Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
 
