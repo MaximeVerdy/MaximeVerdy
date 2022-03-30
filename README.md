@@ -17,7 +17,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaximeVerdy&theme=nord_bright)    ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaximeVerdy&theme=nord_bright)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaximeVerdy&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaximeVerdy&theme=nord_bright)
-
+<br/>
+<br/>
 <a href="https://www.linkedin.com/in/maximeverdy/">
-<img src="Linkedin-logo.png" width="120" alt="badge LinkedIn">
+<img src="Linkedin-logo.png" width="110" alt="badge LinkedIn">
 </a>
