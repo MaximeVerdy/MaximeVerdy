@@ -18,7 +18,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaximeVerdy&theme=nord_bright) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaximeVerdy&theme=nord_bright)
 
-[![Linkedin Badge](Linkedin-logo.png)](https://www.linkedin.com/in/maximeverdy/)
 <a href="https://www.linkedin.com/in/maximeverdy/">
-<img src="Linkedin-logo.png" width="100" alt="badge LinkedIn">
+<img src="Linkedin-logo.png" width="120" alt="badge LinkedIn">
 </a>
