@@ -8,7 +8,7 @@
 <img src="GitTechnosBoot.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
 
 - Toujours en recherche de progression et de "best practices", j’apprécie les retours
-- En cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
+- Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
 - Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
 
