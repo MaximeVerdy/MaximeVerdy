@@ -15,6 +15,7 @@
 <br/>
 😮 Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
 <br/>
+<br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaximeVerdy&theme=nord_bright)
 
