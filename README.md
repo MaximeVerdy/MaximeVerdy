@@ -1,11 +1,13 @@
  # ✨ Développeur JS <br/> back, front et mobile  
+
+- Ma stack :  
+<img src="GitTechnosBoot.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
 </br>
 
 🎓 Diplôme RNCP niv 6 obtenu à [La Capsule 🚀](https://www.linkedin.com/feed/update/urn:li:activity:6714913864439369728/)  
 🥋 4ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)
 <br/>
-- Ma stack :  
-<img src="GitTechnosBoot.png" width="535" alt="Conception, prototypage et programmation d’applications web et mobile en HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
+
 
 - Toujours en recherche de progression et de "best practices", j’apprécie les retours
 - Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD
