@@ -1,6 +1,6 @@
  # ✨ Développeur JS <br/> back, front et mobile  
 
-#### Ma stack :  
+#### Ma stack :   
 
 <img src="TechnosAll.png" width="535" alt="HTML 5, CSS, JS, React, React Native, Redux, Bootstrap, Node.js, Express, MongoDB">
 </br>
