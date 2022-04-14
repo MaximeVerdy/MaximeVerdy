@@ -13,7 +13,7 @@
 <br/> 
 🔎 Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD  
 <br/>
-😮 Fun fact : avant d'être développeur, j'ai été conseiller financier puis auteur et comédien
+😮 Fun fact : avant d'être développeur, j'ai été conseiller financier puis stand-upper
 <br/>
 <br/>
 
