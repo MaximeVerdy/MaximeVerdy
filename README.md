@@ -11,7 +11,7 @@
 <br/>
 🙏 Toujours en recherche de progression et de "best practices", j’apprécie les retours  
 <br/> 
-🔎 Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD  
+🔎 Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD / Vue / Vuetify
 <br/>
 😮 Fun fact : avant d'être développeur, j'ai été conseiller financier puis stand-upper
 <br/>
