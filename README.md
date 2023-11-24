@@ -1,4 +1,4 @@
- # ✨ Développeur JS <br/> back, front et mobile  
+ # ✨ Développeur Front-End React Next TS Agile 
 
 #### Ma stack :   
 
