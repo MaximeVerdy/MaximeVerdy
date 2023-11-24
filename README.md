@@ -10,8 +10,6 @@
 🥋 3ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 <br/>
 🙏 Toujours en recherche de progression et de "best practices", j’apprécie les retours  
-<br/> 
-🔎 Technos en cours d'exploration : Firebase / GraphQL / Tailwind / TypeScript / TDD / Vue+Vuetify   
 <br/>
 😮 Fun fact : avant d'être développeur, j'ai été conseiller financier puis stand-upper
 <br/>
