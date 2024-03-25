@@ -19,7 +19,7 @@
 - Always progressing & finding joy in my tasks is my motto.
 - User needs come first.  
 
-#### 𝑻𝑬𝑨𝑴 𝑾𝑶𝑹𝑲     
+#### 𝙏𝙀𝘼𝙈 𝙒𝙊𝙍𝙆     
 - Motivated by transparent and Agile task management.
 - Comfortable working in a team and autonomously.
 
