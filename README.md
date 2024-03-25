@@ -3,7 +3,7 @@
 🥋 3rd Kyu belt in JS kata (which ultimately serves little in a street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 
 #### 𝙎𝙏𝘼𝘾𝙆   
-- Languages: HTML, CSS, JavaScript, TypeScript
+- Languages: JavaScript, TypeScript, HTML, CSS
 - Framework: React / Next
 - UI components: MUI, Ant Design
 - Data Visualization / Charts: Nivo
