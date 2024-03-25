@@ -3,16 +3,16 @@
 🥋 3rd Kyu belt in JS kata (which ultimately serves little in a street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 
 #### 𝙎𝙏𝘼𝘾𝙆   
-Languages: HTML, CSS, JavaScript, TypeScript
-Framework: React / Next
-UI components: MUI, Ant Design
-Data Visualization / Charts: Nivo
-Rest API calls: Axios, Swagger, Postman
-Unit testing and TDD: Jest
-Toolchain: Git, GitLab, GitHub, Docker
-Back-end: Node.js, Express
-Database: MongoDB, Mongoose
-Mobile: React Native
+- Languages: HTML, CSS, JavaScript, TypeScript
+- Framework: React / Next
+- UI components: MUI, Ant Design
+- Data Visualization / Charts: Nivo
+- Rest API calls: Axios, Swagger, Postman
+- Unit testing and TDD: Jest
+- Toolchain: Git, GitLab, GitHub, Docker
+- Back-end: Node.js, Express
+- Database: MongoDB, Mongoose
+- Mobile: React Native
 
 #### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
 - I strive to write readable, maintainable, and clean code.
