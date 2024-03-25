@@ -20,7 +20,6 @@
 - Les besoins utilisateurs priment.   
 
 #### 𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
-- Animé par l'envie de contribuer au succès d’une entreprise.
 - Motivé par une gestion de tâches transparente et Agile.
 - A l'aise en équipe et en autonomie.
 
