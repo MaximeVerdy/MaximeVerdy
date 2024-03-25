@@ -4,7 +4,7 @@
 
 #### 𝙎𝙏𝘼𝘾𝙆   
 - Languages: JavaScript, TypeScript, HTML, CSS
-- Framework: React / Next
+- Framework Frontend: React / Next
 - UI components: MUI, Ant Design
 - Data Visualization / Charts: Nivo
 - Rest API calls: Axios, Swagger, Postman
