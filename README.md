@@ -1,34 +1,34 @@
- # ✨ Développeur Front-End React Next TS Agile  
+ # ✨ Front-End Developer React Next TS Agile  
 
-🥋 3ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
+🥋 3rd Kyu in JS kata (which ultimately serves little in a street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 
 #### 𝙎𝙏𝘼𝘾𝙆   
-- Langages : HTML, CSS, JavaScript, TypeScript
-- Framework : React / Next
-- UI components : MUI, Ant Design
-- Data Visualization / Graphiques : Nivo
-- Rest API calls : Axios, Swagger, Postman
-- Tests unitaires et TDD : Jest
-- Toolchain : Git, GitLab, GitHub, Docker
-- Back-end : Node.js, Express
-- Base de données : MongoDB, Mongoose
-- Mobile : React Native.
+Languages: HTML, CSS, JavaScript, TypeScript
+Framework: React / Next
+UI components: MUI, Ant Design
+Data Visualization / Charts: Nivo
+Rest API calls: Axios, Swagger, Postman
+Unit testing and TDD: Jest
+Toolchain: Git, GitLab, GitHub, Docker
+Back-end: Node.js, Express
+Database: MongoDB, Mongoose
+Mobile: React Native
 
 #### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
-- Je m'efforce d’écrire du code lisible, maintenable et propre.  
-- Toujours progresser & prendre du plaisir dans mes tâches est mon leitmotiv.  
-- Les besoins utilisateurs priment.   
+- I strive to write readable, maintainable, and clean code.
+- Always progressing & finding joy in my tasks is my motto.
+- User needs come first.  
 
 #### 𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
-- Motivé par une gestion de tâches transparente et Agile.
-- A l'aise en équipe et en autonomie.
+- Motivated by transparent and Agile task management.
+- Comfortable working in a team and autonomously.
 
 #### 𝙎𝙊𝙁𝙏 𝙎𝙆𝙄𝙇𝙇𝙎  
-Persévérant, autonome, diplomate, curieux, cultivé  
+Persistent, autonomous, diplomatic, curious, knowledgeable
 
 #### 𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎  
-- Mon premier site web, dans les 90’s, était en HTML4 mais déjà en dark mode.  
-- J'ai travaillé pendant 10 ans dans le conseil financier et 2 ans dans le café-théâtre.  
+- My first website, back in the 90’s, was in HTML4 but already in dark mode.
+- I worked for 10 years in financial consulting and 2 years in café-theater.
 <br/>
 
 
