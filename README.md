@@ -1,7 +1,6 @@
  # ✨ Développeur Front-End React Next TS Agile  
 
 🥋 3ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
-<br/>  
 
 #### 𝙎𝙏𝘼𝘾𝙆   
 - Framework : React / Next.js
