@@ -10,7 +10,8 @@
 - Rest API calls : Axios, Swagger, Postman
 - Tests unitaires et TDD : Jest
 - Toolchain : Git, GitLab, GitHub, Docker
-- Back-end : Node.js, Express, MongoDB, Mongoose
+- Back-end : Node.js, Express
+- Base de données : MongoDB, Mongoose
 - Mobile : React Native.
 
 #### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
