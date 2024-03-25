@@ -1,7 +1,7 @@
- # ✨ Développeur Front-End React Next TS Agile 
+ # ✨ Développeur Front-End React Next TS Agile  
 
 🥋 3ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
-<br/>
+<br/>  
 
 #### 𝙎𝙏𝘼𝘾𝙆   
 - Framework : React / Next.js
@@ -15,22 +15,22 @@
 - Toolchain : Git, GitLab, GitHub
 - Excel workbook manager : ExcelJS
 - Routing : React Router, React Router DOM
-- Responsive design
+- Responsive design  
 <br/>
 <br/>
 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
 - Je m'efforce d’écrire du code lisible, maintenable et propre.
 - Toujours progresser & prendre du plaisir dans mes tâches est mon leitmotiv.
-- La demande du client et les besoins utilisateurs priment.
+- La demande du client et les besoins utilisateurs priment.  
 <br/>
 <br/>
 𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
 - J’aime le sentiment de contribuer au succès d’une entreprise, le travail en équipe et l’autonomie tout autant.
-- Une gestion de tâches transparente et Agile me motive toujours.
+- Une gestion de tâches transparente et Agile me motive toujours.  
 <br/>
 <br/>
 𝙎𝙊𝙁𝙏 𝙎𝙆𝙄𝙇𝙇𝙎  
-Persévérant, autonome, diplomate, curieux, cultivé
+Persévérant, autonome, diplomate, curieux, cultivé  
 <br/>
 <br/>
 𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎  
