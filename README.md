@@ -18,10 +18,10 @@
 - Responsive design  
 <br/>
 <br/>
-<p>𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
-- Je m'efforce d’écrire du code lisible, maintenable et propre.  
-- Toujours progresser & prendre du plaisir dans mes tâches est mon leitmotiv.  
-- La demande du client et les besoins utilisateurs priment.   
+<p>𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  </p>
+<p>- Je m'efforce d’écrire du code lisible, maintenable et propre.  </p>
+<p>- Toujours progresser & prendre du plaisir dans mes tâches est mon leitmotiv.  </p>
+<p>- La demande du client et les besoins utilisateurs priment.   </p>
 <br/>
 <br/>
 𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
