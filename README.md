@@ -16,20 +16,24 @@
 - Excel workbook manager : ExcelJS
 - Routing : React Router, React Router DOM
 - Responsive design
-
-𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉
+<br/>
+<br/>
+𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
 - Je m'efforce d’écrire du code lisible, maintenable et propre.
 - Toujours progresser & prendre du plaisir dans mes tâches est mon leitmotiv.
 - La demande du client et les besoins utilisateurs priment.
-
-𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀
+<br/>
+<br/>
+𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
 - J’aime le sentiment de contribuer au succès d’une entreprise, le travail en équipe et l’autonomie tout autant.
 - Une gestion de tâches transparente et Agile me motive toujours.
-
-𝙎𝙊𝙁𝙏 𝙎𝙆𝙄𝙇𝙇𝙎
+<br/>
+<br/>
+𝙎𝙊𝙁𝙏 𝙎𝙆𝙄𝙇𝙇𝙎  
 Persévérant, autonome, diplomate, curieux, cultivé
-
-𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎
+<br/>
+<br/>
+𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎  
 - Mon premier site web, dans les 90’s, était en HTML4 mais déjà en dark mode.
 - J'ai travaillé pendant 10 ans dans le conseil financier et 2 ans dans le café-théâtre.
 <br/>
