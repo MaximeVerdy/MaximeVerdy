@@ -14,12 +14,12 @@
 - Database: MongoDB, Mongoose
 - Mobile: React Native
 
-#### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
+#### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝑰𝑵𝑮  
 - I strive to write readable, maintainable, and clean code.
 - Always progressing & finding joy in my tasks is my motto.
 - User needs come first.  
 
-#### 𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
+#### 𝑻𝑬𝑨𝑴 𝑾𝑶𝑹𝑲  
 - Motivated by transparent and Agile task management.
 - Comfortable working in a team and autonomously.
 
