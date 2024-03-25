@@ -17,8 +17,8 @@
 - Routing : React Router, React Router DOM
 - Responsive design  
 <br/>
-<br/>
-#### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉
+
+#### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
 - Je m'efforce d’écrire du code lisible, maintenable et propre.  
 - Toujours progresser & prendre du plaisir dans mes tâches est mon leitmotiv.  
 - La demande du client et les besoins utilisateurs priment.   
