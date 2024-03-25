@@ -14,18 +14,6 @@
 - Database: MongoDB, Mongoose
 - Mobile: React Native
 
-#### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂   
-- I strive to write readable, maintainable, and clean code.
-- Always progressing & finding joy in my tasks is my motto.
-- User needs come first.  
-
-#### 𝙏𝙀𝘼𝙈 𝙒𝙊𝙍𝙆     
-- Motivated by transparent and Agile task management.
-- Comfortable working in a team and autonomously.
-
-#### 𝙎𝙊𝙁𝙏 𝙎𝙆𝙄𝙇𝙇𝙎  
-Persistent, autonomous, diplomatic, curious, knowledgeable
-
 #### 𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎  
 - My first website, back in the 90’s, was in HTML4 but already in dark mode.
 - I worked for 10 years in financial consulting and 2 years in café-theater.
