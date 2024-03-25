@@ -22,8 +22,9 @@
 - La demande du client et les besoins utilisateurs priment.   
 
 #### 𝙏𝙍𝘼𝙑𝘼𝙄𝙇 𝙀𝙉 𝙀𝙌𝙐𝙄𝙋𝙀  
-- J’aime le sentiment de contribuer au succès d’une entreprise, le travail en équipe et l’autonomie tout autant.  
-- Une gestion de tâches transparente et Agile me motive toujours.   
+- Animé par l'envie de contribuer au succès d’une entreprise.
+- Motivé par une gestion de tâches transparente et Agile.
+- A l'aise en équipe et en autonomie.
 
 #### 𝙎𝙊𝙁𝙏 𝙎𝙆𝙄𝙇𝙇𝙎  
 Persévérant, autonome, diplomate, curieux, cultivé  
