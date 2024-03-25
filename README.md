@@ -3,18 +3,15 @@
 🥋 3ème Kyu en kata JS (ce qui sert finalement peu en street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 
 #### 𝙎𝙏𝘼𝘾𝙆   
-- Framework : React / Next.js
-- CSS in JS : Styled-Components
-- Material Design UI components : MUI
-- Tables : MUI data grid pro
+- Langages : HTML, CSS, JavaScript, TypeScript
+- Framework : React / Next
+- UI components : MUI, Ant Design
 - Data Visualization / Graphiques : Nivo
-- Location data platform : Mapbox
 - Rest API calls : Axios, Swagger, Postman
-- Tests unitaires : Jest
-- Toolchain : Git, GitLab, GitHub
-- Excel workbook manager : ExcelJS
-- Routing : React Router, React Router DOM
-- Responsive design  
+- Tests unitaires et TDD : Jest
+- Toolchain : Git, GitLab, GitHub, Docker
+- Back-end : Node.js, Express, MongoDB, Mongoose
+- Mobile : React Native.
 
 #### 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝘼𝙏𝙄𝙊𝙉  
 - Je m'efforce d’écrire du code lisible, maintenable et propre.  
