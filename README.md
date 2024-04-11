@@ -2,17 +2,17 @@
 
 🥋 3rd Kyu belt in JS kata (which ultimately serves little in a street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 
-#### 𝙎𝙏𝘼𝘾𝙆   
-- Languages: JavaScript, TypeScript, HTML, CSS
-- Framework Frontend: React / Next
-- UI components: MUI, Ant Design
-- Data Visualization / Charts: Nivo
-- Rest API calls: Axios, Swagger, Postman
-- Unit testing and TDD: Jest
-- Toolchain: Git, GitLab, GitHub, Docker
-- Back-end: Node.js, Express
-- Database: MongoDB, Mongoose
-- Mobile: React Native
+#### 𝙎𝙏𝘼𝘾𝙆
+- Langages : JavaScript, TypeScript, HTML, CSS
+- Framework Frontend : React / NextJS
+- UI components : MUI
+- Data Visualization / Graphiques : Nivo
+- REST API calls : Axios, Swagger, Postman
+- Tests unitaires : Jest
+- Toolchain : Git, GitLab, GitHub, Docker  
+
+#### 𝙏𝙀𝘾𝙃𝙉𝙊𝙎 𝘼𝘽𝙊𝙍𝘿𝙀𝙀𝙎
+Node.js, Express, MongoDB, Mongoose, API Google Maps, Redux, React Native, Firebase, Manifest V3, Ant Design, TDD
 
 #### 𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎  
 - My first website, back in the 90’s, was in HTML4 but already in dark mode.
