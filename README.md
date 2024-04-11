@@ -1,4 +1,4 @@
- # ✨ React Frontend Developer
+ # ✨ React Front-End Developer
 
 🥋 3rd Kyu belt in JS kata (which ultimately serves little in a street fight) [![codewars](https://www.codewars.com/users/Maxime%20Verdy/badges/micro)](https://www.codewars.com/users/Maxime%20Verdy)  
 
