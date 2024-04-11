@@ -11,7 +11,7 @@
 - Tests unitaires : Jest
 - Toolchain : Git, GitLab, GitHub, Docker  
 
-#### 𝘾𝙊𝙑𝙀𝙍𝙀𝘿 𝙏𝙀𝘾𝙃𝙉𝙊𝙎
+#### 𝙏𝙀𝘾𝙃𝙉𝙊𝙎 𝘾𝙊𝙑𝙀𝙍𝙀𝘿 𝙋𝙍𝙀𝙑𝙄𝙊𝙐𝙎𝙇𝙔 
 Node.js, Express, MongoDB, Mongoose, API Google Maps, Redux, React Native, Firebase, Manifest V3, Ant Design, TDD
 
 #### 𝙁𝙐𝙉 𝙁𝘼𝘾𝙏𝙎  
