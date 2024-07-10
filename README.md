@@ -4,8 +4,8 @@
 
 #### 𝙎𝙏𝘼𝘾𝙆
 - Langages : JavaScript, TypeScript, HTML, CSS
+- Style : MUI, Styled Components, Tailwind
 - Framework Frontend : React / NextJS
-- UI components : MUI
 - Data Visualization / Graphiques : Nivo
 - REST API calls : Axios, Swagger, Postman
 - Tests unitaires : Jest
